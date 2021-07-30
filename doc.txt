@@ -1,0 +1,11 @@
+Realtime Whiteboard
+
+Create a realtime Whiteboard built using Vanilla Javascript, HTML, CSS, Canvas API
+Use Socket.io and Node events to reflect back realtime changes to multiple users
+Create undo redo features for the board using Arrays as stack by storing positions, colors and width of pen and erasor
+
+Pencil, erasor, sticky notes, upload images, board download, redo undo
+For pencil and erasor - change size and color
+
+Browser is written in C++.
+To paint something on browser we have Canvas API / object
